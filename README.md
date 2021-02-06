@@ -36,7 +36,7 @@ do three steps:
 
 ```sh
     cd server
-    npm run install
+    npm install
     npm run start
 ```
 
@@ -50,7 +50,7 @@ In the `server/package.json` file, line 12. for the `postbuild` script the comma
 
 ```sh
     cd client
-    npm run install
+    npm install
     npm run start
 ```
 
